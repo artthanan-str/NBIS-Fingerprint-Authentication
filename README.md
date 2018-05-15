@@ -53,5 +53,4 @@ This mode tries to verify if the input fingerprint is matched with the informati
 
 ## References
 [NBIS documentation](https://www.nist.gov/publications/users-guide-nist-biometric-image-software-nbis)
-
 [NBIS download](https://www.nist.gov/itl/iad/image-group/products-and-services/image-group-open-source-server-nigos#Releases)
